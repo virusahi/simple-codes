@@ -6,7 +6,7 @@ int main() {
 
     
 
-    printf("Enter two integers: ");
+    printf("Enter two any numerical integers: ");
 
     scanf("%d %d", &number1, &number2);
 
